@@ -1,0 +1,18 @@
+﻿  Modulo2.cpp
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(32,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,61): warning C4244: 'argumento': conversión de '_Ty' a 'int'; posible pérdida de datos
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,61): warning C4244:         with
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,61): warning C4244:         [
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,61): warning C4244:             _Ty=unsigned __int64
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,61): warning C4244:         ]
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,51): warning C4244: 'argumento': conversión de '_Ty' a 'int'; posible pérdida de datos
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,51): warning C4244:         with
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,51): warning C4244:         [
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,51): warning C4244:             _Ty=unsigned __int64
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,51): warning C4244:         ]
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,41): warning C4244: 'argumento': conversión de '_Ty' a 'int'; posible pérdida de datos
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,41): warning C4244:         with
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,41): warning C4244:         [
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,41): warning C4244:             _Ty=unsigned __int64
+C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Modulo2.cpp(76,41): warning C4244:         ]
+  Project2.vcxproj -> C:\Users\david\OneDrive\Documentos temporales U\Analisis y diseño de algoritmos\Ejercicios en C++\Project2\Debug\Project2.exe
